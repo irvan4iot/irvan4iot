@@ -1,12 +1,24 @@
 <p align="center">
 <a href="#ǝɔϟlʍo">
-    <img width="100%" src="">
+    <img width="100%" src="https://github.com/owl4ce/owl4ce/blob/assets/cover.png">
 </a>
 </p>
-## Hey 👋, This is Irvan Pramana Putra
-[![Gmail Badge](https://img.shields.io/badge/-irvanpramana@sgbteam.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:irvanpramana@sgbteam.id)](mailto:irvanpramana@sgbteam.id) [![Github Badge](https://img.shields.io/badge/-irvan4iot-grey?style=flat&logo=github&logoColor=white&link=https://github.com/irvan4iot/)](https://www.github.com/irvan4iot/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=irvanpram.com/)](irvanpram.com/) <p align='left'>just people who like animes </p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=irvan4iot alt=irvan4iot /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=irvan4iot&show_icons=true&include_all_commits=true)](https://github.com/irvan4iot/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irvan4iot&layout=compact)](https://github.com/irvan4iot/github-readme-stats)
+<details>
+<summary>'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself'.</summary>
+    <p align="center">
+    <a href="#ǝɔϟlʍo" target="_blank">
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=owl4ce&hide=html,&hide_border=true&title_color=4c566a&text_color=3b4252"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=owl4ce&show_icons=true&hide=issues,commits&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
+    </a>
+    </p>
+    <details open>
+    <summary></summary>
+    <p align="center">
+    <a href="#ǝɔϟlʍo" target="_blank">
+        <img src="https://profile-counter.glitch.me/irvan4iot/count.svg" />
+    </a>
+    </p>
+    </details>
+    
+</details>
